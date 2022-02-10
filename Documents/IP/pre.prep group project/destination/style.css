@@ -1,0 +1,32 @@
+#dropoff {
+  margin-bottom: 15px;
+  width: 400px;
+  height: 25px;
+}
+.dest {
+  margin-top: 200px;
+  padding-top: 100px;
+  margin-left: 500px;
+  background-color: #c4c4c4;
+  width: 500px;
+  height: 200px;
+  padding-left: 60px;
+}
+.dropoff1 a {
+  text-decoration: none;
+  color: white;
+}
+.dropoff1 {
+  border-radius: 30px;
+  height: 50px;
+  width: 200px;
+  background-color: #a0351d;
+  color: white;
+  border: none;
+}
+button {
+  margin-left: 130px;
+}
+.request-form {
+  margin-left: 150px;
+}

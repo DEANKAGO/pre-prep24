@@ -1,0 +1,39 @@
+.currentlocation {
+  margin-top: 80px;
+  padding-top: 50px;
+  margin-left: 500px;
+  background-color: #c4c4c4;
+  width: 500px;
+  height: 200px;
+  padding-left: 60px;
+}
+
+#pickup {
+  margin-bottom: 15px;
+  width: 400px;
+  height: 25px;
+}
+.pickup1 a {
+  text-decoration: none;
+  color: white;
+}
+
+.pickup1 {
+  border-radius: 30px;
+  height: 50px;
+  width: 200px;
+  background-color: #a0351d;
+  color: white;
+  border: none;
+}
+.pickup1 a {
+  text-decoration: none;
+  color: white;
+}
+
+button {
+  margin-left: 130px;
+}
+.request-form {
+  margin-left: 150px;
+}
